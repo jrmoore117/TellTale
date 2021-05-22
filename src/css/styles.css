@@ -1,0 +1,12 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* @import "./helpers/_accordion.css"; */
+
+html,
+body,
+input,
+button {
+   @apply font-sans;
+}
